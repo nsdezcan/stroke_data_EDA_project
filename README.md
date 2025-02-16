@@ -1,5 +1,5 @@
 # stroke_data_EDA_project
-# Stroke Data Project
+
 
 ## 📌 Proje Açıklaması
 Bu proje, **inme (stroke) verisi** üzerinde **keşifsel veri analizi (Exploratory Data Analysis - EDA)** yapmak amacıyla oluşturulmuştur. Çalışmada veri temizleme, görselleştirme ve istatistiksel analizler gerçekleştirilmiştir.
@@ -13,7 +13,7 @@ Bu proje, **inme (stroke) verisi** üzerinde **keşifsel veri analizi (Explorato
 ## 📂 Kurulum ve Kullanım
 1. Bu repository'yi klonlayın:
    ```sh
-   git clone https://github.com/kullaniciadi/stroke-data-project.git
+   git clone https://github.com/nsdezcan/stroke_data_EDA_project.git
    ```
 2. Gerekli bağımlılıkları yükleyin:
    ```sh
@@ -56,5 +56,5 @@ Projeye katkıda bulunmak istiyorsanız:
 Eğer herhangi bir sorunuz varsa, lütfen benimle iletişime geçin!
 
 ---
-**Hazırlayan:** [Nuriye Dezcan](https://github.com/kullaniciadi)
+**Hazırlayan:** [Nuriye Dezcan](https://github.com/nsdezcan)
 
